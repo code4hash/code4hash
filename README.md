@@ -24,17 +24,13 @@
 
 ---
 
-## 🧩 Featured Projects (Pinned Recommended)
-> *(Add your best repos here and pin them on profile)*  
+## 🧩 Featured Projects
+- 🚀 **Web Portfolio App** — A responsive web app that showcases my work  
+  🔗 https://github.com/code4hash/web
 
-- 🚀 **Project 1** — AI powered web app / automation tool  
-  🔗 https://github.com/code4hash/REPO1  
+- 🤖 **AI Task Automator** — Built with AI agents to automate tasks  
+  🔗 https://github.com/code4hash/ai-automator
 
-- 🎨 **Project 2** — Modern UI/UX based web application  
-  🔗 https://github.com/code4hash/REPO2  
-
-- 🤖 **Project 3** — AI agent based system / assistant project  
-  🔗 https://github.com/code4hash/REPO3  
 
 ---
 

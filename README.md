@@ -20,21 +20,26 @@
 ✅ **UI Agent** → Generates UI layout + design suggestions  
 ✅ **Code Agent** → Writes code, refactors, optimizes  
 ✅ **Debug Agent** → Finds bugs & edge cases  
-✅ **Deployment Agent** → Helps deploy & document
+✅ **Deployment Agent** → Helps deploy & document  
 
 ---
 
-## 🧩 Featured Projects
-- 🚀 **Web Portfolio App** — A responsive web app that showcases my work  
-  🔗 https://github.com/code4hash/web
+## 🧩 Featured Projects (Pin Recommended)
+> *(Replace REPO links with your best projects)*  
 
-- 🤖 **AI Task Automator** — Built with AI agents to automate tasks  
-  🔗 https://github.com/code4hash/ai-automator
+- 🚀 **Project 1** — AI powered web app / automation tool  
+  
 
+- 🎨 **Project 2** — Modern UI/UX based web application  
+   
+
+- 🤖 **Project 3** — AI agent based system / assistant project  
+   
 
 ---
 
 ## 🛠️ Skills & Tools
+
 ### 🎨 Design  
 - Figma  
 - Canva  
@@ -61,7 +66,7 @@
 
 ---
 
-## ⚡ Tech Stack Badges (Minimal but Premium)
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,nodejs,python,flask,mongodb,mysql,postgres,docker,git,github,aws,gcp" />
 </p>
@@ -69,9 +74,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code4hash&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code4hash&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=code4hash&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -81,14 +87,15 @@
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code4hash&theme=onedark&no-frame=true&margin-w=10" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code4hash&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
+
 <p align="center">
   <a href="https://github.com/code4hash">
     <img src="https://img.shields.io/badge/GitHub-code4hash-181717?style=for-the-badge&logo=github" />

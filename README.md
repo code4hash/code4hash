@@ -1,41 +1,104 @@
-<h1 align="center">Hi, I'm code4hash 👋</h1>
-<p align="center">
-  Learner • Web App Designer • Building projects with AI agents
-</p>
+<h1 align="center">Hey, I'm code4hash 👋</h1>
+<h3 align="center">Learner • Web App Designer • AI Agent Assisted Builder 🤖✨</h3>
 
 <p align="center">
-  <a href="https://github.com/code4hash">GitHub</a> •
-  <a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  <img src="https://visitcount.itsvg.in/api?id=code4hash&icon=2&color=6" />
 </p>
 
 ---
 
-## 🚀 What I do
-- 🎨 Design and build modern web apps (UI/UX + front-end)
-- 🤖 Use AI agents to speed up development and prototyping
-- 📚 Always learning and shipping small-to-medium projects
-
-## 🧰 Tech I use
-**Design:** Figma, (add more)  
-**Front-end:** HTML, CSS, JavaScript, (React/Vue/Next?)  
-**Back-end:** (Node/Python?)  
-**AI tooling:** (ChatGPT, Claude, LangChain, etc.)
-
-## 🧩 Featured projects
-- **Project 1** — one-line value statement  
-  Repo: https://github.com/code4hash/REPO1
-- **Project 2** — one-line value statement  
-  Repo: https://github.com/code4hash/REPO2
-- **Project 3** — one-line value statement  
-  Repo: https://github.com/code4hash/REPO3
-
-## 🗓️ Current focus
-- Building: (your current app)
-- Learning: (your current topic)
-- Improving: (your goal)
+## 🚀 About Me  
+🌱 I'm a passionate **Web App Designer & Developer** who loves building real-world projects.  
+🤖 Most of my projects are built with the help of **AI Agents** to speed up development & creativity.  
+🎨 I focus on **UI/UX + Clean Front-End Design + Smart Automation**.  
+⚡ Always learning, always shipping.
 
 ---
 
-### 🤝 Let’s connect
-If you like AI-assisted building or clean UI design, feel free to follow or reach out!
+## 🤖 AI Agent Workflow I Use
+✅ **Planner Agent** → Breaks big ideas into tasks  
+✅ **UI Agent** → Generates UI layout + design suggestions  
+✅ **Code Agent** → Writes code, refactors, optimizes  
+✅ **Debug Agent** → Finds bugs & edge cases  
+✅ **Deployment Agent** → Helps deploy & document
+
+---
+
+## 🧩 Featured Projects (Pinned Recommended)
+> *(Add your best repos here and pin them on profile)*  
+
+- 🚀 **Project 1** — AI powered web app / automation tool  
+  🔗 https://github.com/code4hash/REPO1  
+
+- 🎨 **Project 2** — Modern UI/UX based web application  
+  🔗 https://github.com/code4hash/REPO2  
+
+- 🤖 **Project 3** — AI agent based system / assistant project  
+  🔗 https://github.com/code4hash/REPO3  
+
+---
+
+## 🛠️ Skills & Tools
+### 🎨 Design  
+- Figma  
+- Canva  
+- UI/UX Design  
+- Wireframing & Prototyping  
+
+### 💻 Development  
+- HTML, CSS, JavaScript  
+- TypeScript  
+- React / Next.js  
+- Python / Flask  
+- Node.js  
+
+### ☁️ Cloud & DevOps  
+- Git & GitHub  
+- Docker  
+- AWS / GCP / DigitalOcean  
+- Cloudflare  
+
+### 🤖 AI Tools  
+- ChatGPT / AI Agents  
+- Prompt Engineering  
+- Automation Workflows  
+
+---
+
+## ⚡ Tech Stack Badges (Minimal but Premium)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,nodejs,python,flask,mongodb,mysql,postgres,docker,git,github,aws,gcp" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code4hash&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code4hash&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4hash&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code4hash&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://github.com/code4hash">
+    <img src="https://img.shields.io/badge/GitHub-code4hash-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ **Fun Fact:** I love building projects faster using AI Agents + clean UI design.  
+🔥 *Follow me if you enjoy Web Development + AI Automation!*
